@@ -1,0 +1,6 @@
+streamlit==1.32.0
+torch
+torchvision
+numpy
+Pillow
+opencv-python-headless
